@@ -1,0 +1,10 @@
+p {
+    background-color:  aqua;
+    width: 70%;
+    float: left;
+}
+
+div {
+    background-color: black;
+    width: 80%
+}
